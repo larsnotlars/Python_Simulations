@@ -12,7 +12,7 @@ Projects:
         -  Three body problem with fixed nucleus with two electrons
         -  using Euler-scheme and Euler-Richardson-algorithm
   3. Traffic Simulation
-        - using Nagel-Schreckenberg model to simulate 
+        - using Nagel-Schreckenberg model to simulate the traffic
         - Cellular Automata 
 
 Over the course of the projects  the difficulty increases.

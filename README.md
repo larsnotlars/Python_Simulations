@@ -1,4 +1,4 @@
-# Python_Simulations
+# Python Simulations
 
 In this repository I upload projects simulating different real-life processes.
 

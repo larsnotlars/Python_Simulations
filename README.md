@@ -14,6 +14,9 @@ Projects:
   3. Traffic Simulation
         - using Nagel-Schreckenberg model to simulate the traffic
         - Cellular Automata 
+  4. Wave in a String
+        - simulating a string with two fixed ends
+        - using leapfrog algorithm
 
 Over the course of the projects  the difficulty increases.
 The simulations are all written in Jupyter Notebooks and the code is in Python.

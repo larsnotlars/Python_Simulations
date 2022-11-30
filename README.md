@@ -17,6 +17,9 @@ Projects:
   4. Wave in a String
         - simulating a string with two fixed ends
         - using leapfrog algorithm
+  5. Chaotic Systems
+      - simulating logistic Maps
+      - creating bifurcation diagrams
 
 Over the course of the projects  the difficulty increases.
 The simulations are all written in Jupyter Notebooks and the code is in Python.
